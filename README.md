@@ -12,7 +12,7 @@ The package checks the input email against an updated list of known temporary em
 You can install the package via composer:
 
 ```bash
-composer require babatundeodaniel/laravel-fake-email-validator
+composer require Kompas/laravel-fake-email-validator
 ```
 To customize the configuration file, publish the package configuration using Artisan.
 
