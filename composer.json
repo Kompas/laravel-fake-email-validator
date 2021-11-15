@@ -16,13 +16,13 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
         "illuminate/support": ">=6.0",
         "wesbos/burner-email-providers": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
-        "phpunit/phpunit": "^8.0"
+        "phpunit/phpunit": ">=8.0"
     },
     "autoload": {
         "psr-4": {
